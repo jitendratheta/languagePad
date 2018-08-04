@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1533406272 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/BinarySearch/LIS.cpp
+	"LIS.h"
+	<iostream>
+	<algorithm>
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/BinarySearch/LIS.h
+	"../Algorithm.h"
+	<vector>
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/Algorithm.h
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/Graph/Bfs.cpp
+	"Bfs.h"
+	<iostream>
+	<vector>
+	<queue>
+
+1533406345 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/Graph/Bfs.h
+	<stdio.h>
+	<vector>
+	"Algorithm.h"
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms//Algorithm.h
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/Graph/Dfs.cpp
+	"Dfs.h"
+	<iostream>
+	<vector>
+	<stack>
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/Graph/Dfs.h
+	<stdio.h>
+	<vector>
+	"Algorithm.h"
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/Graph/Dijkstra.cpp
+	"Dijkstra.h"
+	<iostream>
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/Graph/Dijkstra.h
+	<stdio.h>
+	<queue>
+	"Algorithm.h"
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/Graph/DisjointSets.cpp
+	"DisjointSets.h"
+	<iostream>
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/Graph/DisjointSets.h
+	<stdio.h>
+	"Algorithm.h"
+
+1533405766 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/main.cpp
+	<iostream>
+	"Algorithm.h"
+	"NumberTheory/Sieve.h"
+	"NumberTheory/MultiplicativeInverse.h"
+	"Graph/DisjointSets.h"
+	"Query/SegTree.h"
+	"Graph/Dfs.h"
+	"Graph/Bfs.h"
+	"Graph/Dijkstra.h"
+	"BinarySearch/LIS.h"
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/NumberTheory/Sieve.h
+	<stdio.h>
+	"../Algorithm.h"
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/NumberTheory/MultiplicativeInverse.h
+	<stdio.h>
+	<utility>
+	"../Algorithm.h"
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/Query/SegTree.h
+	"Algorithm.h"
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/NumberTheory/MultiplicativeInverse.cpp
+	"MultiplicativeInverse.h"
+	"../Utils.h"
+	<iostream>
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/Utils.h
+	<stdio.h>
+	<ctime>
+	<string>
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/NumberTheory/Sieve.cpp
+	"Sieve.h"
+	"../Utils.h"
+	<cmath>
+	<iostream>
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/Query/FenwickTree.cpp
+	"FenwickTree.h"
+
+1528614388 /media/jitendra/Windows/repo/languagePad/cpp/algorithms/Query/FenwickTree.h
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/Query/SegTree.cpp
+	"SegTree.h"
+	<iostream>
+
+1528614388 source:/media/jitendra/Windows/repo/languagePad/cpp/algorithms/Utils.cpp
+	"Utils.h"
+	<iostream>
+
