@@ -24,6 +24,16 @@
 	* Discrete root extraction
 	* The Eratosthenes sieve with linear time of operation
 
+* #### Modulo Arithmetic Algorithms
+
+	* Basic and Extended Euclidean algorithms
+	* Euler’s Totient Function
+	* Modular Exponentiation
+	* Modular Multiplicative Inverse
+	* Chinese remainder theorem Introduction
+	* Chinese remainder theorem and Modulo Inverse Implementation
+	* nCr%m and this.
+
 * #### Complex algorithms 
 
 	* The BPSW test for the simplicity of numbers for O (log N)
@@ -224,4 +234,8 @@
 * Game of the Fifteen: the existence of the solution
 * The Stern-Broco tree. Farey's series
 * Search for a sub-array with a maximum / minimum amount for O (N)	
+
+
+##Link to more
+[scriptol.com.programming](https://www.scriptol.com/programming/list-algorithms.php)
 	
